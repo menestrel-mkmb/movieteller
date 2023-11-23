@@ -12,7 +12,10 @@ function Footer() {
         </Link>
         <section className={"copyright__sect"}>
             <p>Site desenvolvido por Michael Kevin.</p>
-            <p>Link API do OpenMovieDatabase</p>
+            <a target={"_blank"} rel="noreferrer"
+                href="https://developer.themoviedb.org/reference/intro/getting-started">
+                Link API do TheMovieDB
+            </a>
         </section>
         <section className={"ref__sect"}>
             <p>Desenvolvimento educativo. Links:</p>
