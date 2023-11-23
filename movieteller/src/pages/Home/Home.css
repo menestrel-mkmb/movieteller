@@ -1,0 +1,25 @@
+main {
+    min-height: calc(100vh - 4rem);
+    width: 80%;
+
+    margin: 0 10%;
+}
+
+.movies__artc {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.now-playing__title {
+    display: block;
+    text-transform: uppercase;
+    font-size: 2rem;
+
+    width: 100%;
+
+    padding: 2rem 0;
+}

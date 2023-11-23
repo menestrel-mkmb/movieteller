@@ -1,0 +1,31 @@
+header {
+    background-color: #222;
+    color: #ddd;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+    min-height: 4rem;
+    max-height: 6rem;
+    width: 100%;
+
+    margin: 0;
+    padding: 1rem 4rem;
+}
+
+header a,
+header a:visited {
+    color: #ddd;
+    text-decoration: none;
+    text-transform: uppercase;
+
+    cursor: pointer;
+}
+
+header .menu {
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+}
