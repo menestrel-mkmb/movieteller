@@ -16,7 +16,7 @@ export default function Error404() {
                 <p className={"error__txt"}>Desculpe, mas não entendi onde você queria chegar.</p>
                 <p className={"not-found__txt"}>
                     <strong>Página não encontrada</strong>
-                    <Link to="/">Voltar para a página inicial</Link>
+                    <Link to="/movieteller/">Voltar para a página inicial</Link>
                 </p>
             </section>
         </article>

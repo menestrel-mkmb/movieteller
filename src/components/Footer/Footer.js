@@ -5,7 +5,7 @@ import "./Footer.css";
 function Footer() {
     return(
     <footer className={"footer footer__sect"}>
-        <Link to={"/"}>
+        <Link to={"/movieteller/"}>
             <h3 className={"footer__title"}>
                 Movieteller
             </h3>
