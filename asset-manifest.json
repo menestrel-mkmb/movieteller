@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/movieteller/static/css/main.f9c1bd9b.css",
-    "main.js": "/movieteller/static/js/main.5b436a45.js",
+    "main.js": "/movieteller/static/js/main.4430ddc8.js",
     "index.html": "/movieteller/index.html",
     "main.f9c1bd9b.css.map": "/movieteller/static/css/main.f9c1bd9b.css.map",
-    "main.5b436a45.js.map": "/movieteller/static/js/main.5b436a45.js.map"
+    "main.4430ddc8.js.map": "/movieteller/static/js/main.4430ddc8.js.map"
   },
   "entrypoints": [
     "static/css/main.f9c1bd9b.css",
-    "static/js/main.5b436a45.js"
+    "static/js/main.4430ddc8.js"
   ]
 }
