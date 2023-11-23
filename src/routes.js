@@ -13,12 +13,12 @@ function RoutesApp() {
     return(<BrowserRouter>
         <Header />
         <Routes>
-            <Route path="/" element={ <Home /> } />
-            <Route path="/favorites" element={ <Favorites /> } />
-            <Route path="/watchlater" element={ <WatchLater /> } />
-            <Route path="/movie/:movieId" element={ <Movie /> } />
+            <Route path="/movieteller/" element={ <Home /> } />
+            <Route path="/movieteller/favorites" element={ <Favorites /> } />
+            <Route path="/movieteller/watchlater" element={ <WatchLater /> } />
+            <Route path="/movieteller/movie/:movieId" element={ <Movie /> } />
 
-            <Route path="/*" element={ <Error404 /> } />
+            <Route path="/movieteller/*" element={ <Error404 /> } />
         </Routes>
         <Footer />
     </BrowserRouter>);
