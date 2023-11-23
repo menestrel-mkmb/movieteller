@@ -9,8 +9,10 @@ Movieteller - React App using themoviedb API
 
 ## Próximas implementações:
 
+* Fontes customizadas
 * Busca de filme pelo nome
 * Crie uma conta e salve suas listas remotamente
+* Ordenação de listas
 
 
 ## Documentações utilizadas na realização do projeto:
